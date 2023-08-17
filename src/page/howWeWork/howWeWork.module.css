@@ -1,0 +1,14 @@
+.howWeWork{
+    display: flex;
+    padding-top: 100px;
+    flex-direction: column;
+    padding-bottom: 100px;
+    background: linear-gradient(180deg, #1a1826, #413b5e);
+
+}
+.howWeWork h2{
+    font-size: 3em;
+    color: #f1f1f1;
+    font-weight: 400;
+    text-align: center;
+}
